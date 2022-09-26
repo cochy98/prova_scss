@@ -1,0 +1,23 @@
+{
+  "name": "prova_scss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass -w scss/:css/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cochy98/html-css-12bool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cochy98/html-css-12bool/issues"
+  },
+  "homepage": "https://github.com/cochy98/html-css-12bool#readme",
+  "dependencies": {
+    "node-sass": "^7.0.3"
+  }
+}
